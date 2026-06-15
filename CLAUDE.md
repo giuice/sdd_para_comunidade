@@ -66,6 +66,7 @@ When helping answer a DreamShaper question:
 - All outputs should be in **Portuguese (pt-BR)**
 - The workshop format was: in-person, around 1 hour, public audience, beginner level
 - The presentation material is built with HTML + Reveal.js and should be described as part of the current project repository, without relying on old branding
+- Supporting content and explainer videos about SDD were generated with **NotebookLM**, used as complementary material for the workshop
 
 ## Key Reference Points
 
